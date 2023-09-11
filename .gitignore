@@ -5,3 +5,7 @@
 /packages/
 /WebApi/Web.Debug.*
 /WebApi/Web.Release.config
+/.vs/JonasCodingTest/config/applicationhost.config
+/WebApi/WebApi.csproj.user
+/.vs/JonasCodingTest
+*.user
